@@ -1,2 +1,2 @@
 #!/bin/bash
-mv -i $x $lc
+mv -i $x $lc /tmp/u
