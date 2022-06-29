@@ -1,2 +1,2 @@
 #!/bin/bash
-mv -i $lc $x /tmp/u
+mv [[:upper:]]* /tmp/u/
